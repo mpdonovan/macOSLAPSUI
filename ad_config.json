@@ -1,0 +1,7 @@
+{
+  "AD_Accnt_Domain":"<yourdomain>",
+  "DC_Root":"<yourroot>",
+  "DC_Child":"<yourchild>",
+  "Path_Root":"DC=yours,DC=yours",
+  "Path_Child":"DC=yours,DC=yours,DC=yours"
+}
