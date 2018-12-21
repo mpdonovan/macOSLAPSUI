@@ -17,6 +17,8 @@
 # PSU MacAdmins 2016
 # Ldap3 usage from dbunn
 # https://github.com/dbunn/MS-AD-LDAP3-Python/blob/master/ms_ad_search_examples.py
+# Gssapi usage from sigmaris
+# https://gist.github.com/sigmaris/f4bf307e97b449148d78
 # #################################################################
 
 from ldap3 import Server, Connection, SIMPLE, SYNC, ALL, SASL, SUBTREE, NTLM, BASE, ALL_ATTRIBUTES, Entry, Attribute, KERBEROS, MODIFY_REPLACE
