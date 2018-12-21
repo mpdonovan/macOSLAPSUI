@@ -15,6 +15,8 @@
 # Mike Donovan mike.donovan@killeenisd.org - Killeen ISD - September 28, 2018
 # Original UI elements from Bryson Tyrrell's "Craft your own GUI's with Python and Tkinter"
 # PSU MacAdmins 2016
+# Ldap3 usage from dbunn
+# https://github.com/dbunn/MS-AD-LDAP3-Python/blob/master/ms_ad_search_examples.py
 # #################################################################
 
 from ldap3 import Server, Connection, SIMPLE, SYNC, ALL, SASL, SUBTREE, NTLM, BASE, ALL_ATTRIBUTES, Entry, Attribute, KERBEROS, MODIFY_REPLACE
